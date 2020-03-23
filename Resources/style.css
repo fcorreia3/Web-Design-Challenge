@@ -1,0 +1,27 @@
+.navbar-brand {
+    font-weight: bold;
+}
+
+.plots {
+    width: 300px;
+    height: 300px;
+    position: relative;
+    left: 150px;
+}
+
+.plots_wind {
+    width: 240px;
+    height: 240px;
+    position: relative;
+    left: 75px;
+}
+
+.feature {
+    align-content: relative;
+    bottom: 30px;
+}
+
+.feature-add {
+    position: relative;
+    top: 20px;
+}
