@@ -1,2 +1,1 @@
-# Web-Design-Challenge
-HTML+CSS Homework
+# [Latitude and the weather](https://fcorreia3.github.io/Web-Design-Challenge)
